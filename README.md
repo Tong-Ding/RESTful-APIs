@@ -1,3 +1,3 @@
-# RESTful-APIs
+# RESTful API Design
 
-Framework and tools: Flask, MySQL
+Framework and tools: Python, Flask, MySQL
